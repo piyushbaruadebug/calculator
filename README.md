@@ -27,7 +27,7 @@ calculator/
 
 ## live demo
 
-try here : file:///Users/piyushbarua/calculator/index.html
+try thedemo here : https://piyushbaruadebug.github.io/calculator/
 
 # Future Improvements
 
