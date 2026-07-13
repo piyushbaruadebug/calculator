@@ -25,9 +25,10 @@ calculator/
 └── README.md
 ```
 
-## live demo
+## 🔗 Links
 
-try thedemo here : https://piyushbaruadebug.github.io/calculator/
+- 🌐 **Live Demo:** https://piyushbaruadebug.github.io/calculator/
+- 💻 **Source Code:** https://github.com/piyushbaruadebug/calculator
 
 # Future Improvements
 
